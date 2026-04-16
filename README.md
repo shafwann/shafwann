@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Shafwan Eksa Jayadi 👋
 
-<!--
-**shafwann/shafwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😹 *Woilah cik*
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💻 Fokus di pengembangan web dan software project.
+- 🌱 Suka belajar hal baru dan eksplorasi teknologi.
+- 🤝 Terbuka untuk kolaborasi project yang menarik.
+- 🌐 Portfolio: [shafwann.github.io/web_portofolio](https://shafwann.github.io/web_portofolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- JavaScript
+- PHP
+- C#
+
+## 🚀 Highlight Repositories
+- [Laravel-CRUD-Data-Kependudukan](https://github.com/shafwann/Laravel-CRUD-Data-Kependudukan)
+- [Prototype1](https://github.com/shafwann/Prototype1)
+- [SKD-UTS](https://github.com/shafwann/SKD-UTS)
+- [backend](https://github.com/shafwann/backend)
+
+## 📫 Connect
+- GitHub: [@shafwann](https://github.com/shafwann)
